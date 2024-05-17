@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "nroP.edaM",
+    "version": "1.0",
+    "description": "Автоматизация nrop.edam",
+    "permissions": ["tabs", "scripting"],
+    "host_permissions": ["https://made.porn/*"],
+    "background": {
+        "service_worker": "background.js"
+      }
+  }
